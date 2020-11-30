@@ -1,0 +1,30 @@
+[
+  {
+    "cover": "/tenuta.png",
+    "name": "Tenuta SantAntonio Scaia I.G.T. Veneto Rosato 2018",
+    "grape": "Rondinella",
+    "country": "Italy",
+    "region": "Veneto",
+    "classification": "Medium Dry / Demi-Sec",
+    "winery": "Tenuta Sant'Antonio",
+    "age": "2018",
+    "ripening": "In stainless steel tanks",
+    "alcoholContent": "12.50% ABV",
+    "temperature": "9 °C",
+    "potential": "3 years"
+  },
+  {
+    "cover": "/norton.png",
+    "name": "Norton Reserva Syrah 2015",
+    "grape": "Syrah",
+    "country": "Argentina",
+    "region": "Luján de Cuyo",
+    "classification": "Dry",
+    "winery": "Norton Winery",
+    "age": "2015",
+    "ripening": "12 months in French oak barrels for 1st and 2nd uses; ten months in bottle.",
+    "alcoholContent": "13.50% ABV",
+    "temperature": "16 °C",
+    "potential": "9 years"
+  }
+]
