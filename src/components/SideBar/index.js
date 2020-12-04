@@ -1,10 +1,15 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Container, Logo, Desc } from './styles';
 
 const SideBar = () => {
   return (
-    <Container />
+    <Container>
+      <Logo src="/logo.png" />
+      <Desc>
+        Elegance & taste<br/> of a <strong>best wine</strong>
+      </Desc>
+    </Container>
   );
 }
 

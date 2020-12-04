@@ -24,6 +24,11 @@ export const WineCover = styled.img`
   width: 90px;
   height: 125px;
   transform: translateY(-15px);
+  transition: ease transform 0.5s;
+
+  &:hover {
+    transform: translateY(-25px);
+  }
 `;
 
 export const Info = styled.div`
